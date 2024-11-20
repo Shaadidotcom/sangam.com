@@ -1,0 +1,11 @@
+Light Gray: #f0f0f0
+Sky Blue: #87ceeb
+Mint Green: #98ff98
+Lavender: #e6e6fa
+Light Coral: #f08080
+Peach Puff: #ffdab9
+Pale Turquoise: #afeeee
+Ivory: #fffff0
+Light Goldenrod Yellow: #fafad2
+Wheat: #f5deb3
+Shaadi Blue: #0A2A5E
